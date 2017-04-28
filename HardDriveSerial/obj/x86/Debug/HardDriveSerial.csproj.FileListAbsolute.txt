@@ -1,0 +1,7 @@
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\HardDriveSerial\HardDriveSerial\bin\Debug\HardDriveSerial.exe
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\HardDriveSerial\HardDriveSerial\bin\Debug\HardDriveSerial.pdb
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\HardDriveSerial\HardDriveSerial\obj\x86\Debug\HardDriveSerial.Form1.resources
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\HardDriveSerial\HardDriveSerial\obj\x86\Debug\HardDriveSerial.Properties.Resources.resources
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\HardDriveSerial\HardDriveSerial\obj\x86\Debug\HardDriveSerial.exe
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\HardDriveSerial\HardDriveSerial\obj\x86\Debug\HardDriveSerial.pdb
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\HardDriveSerial\HardDriveSerial\obj\x86\Debug\HardDriveSerial.csproj.GenerateResource.Cache
